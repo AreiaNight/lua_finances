@@ -17,3 +17,8 @@ Then, open a terminal and just run the script.
 ## Screenshoots
 
 ![ ](https://github.com/AreiaNight/lua_finances/blob/main/screenshoots/balance-win.png?raw=true)
+
+## To do 
+[] Fix linux dependencies 
+[] Fix linux code 
+[] Create a csv file
