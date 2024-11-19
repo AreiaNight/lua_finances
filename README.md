@@ -7,7 +7,7 @@ Same stpes, first clone the repo. You can download the zip.
 
 After, just run the dependencies.bat 
 > Don't worry, it's just to install libraries, nothing else. You are free to read the code if you are suspicious. 
-![ ](screenshoot/dependencies win.png)
+![ ](https://github.com/AreiaNight/lua_finances/blob/main/screenshoots/dependencies%20win.png)
 
 Then, open a terminal and just run the script.
 ``` 
@@ -16,4 +16,4 @@ Then, open a terminal and just run the script.
 
 ## Screenshoots
 
-![ ](screenshoot/balance-win.png)
+![ ](https://github.com/AreiaNight/lua_finances/blob/main/screenshoots/balance-win.png?raw=true)
